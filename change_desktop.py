@@ -50,9 +50,16 @@ def automaticChange():
         
 # choose options either 1 0r 2
 
-print("Choose wallpaper options");
+print('');
+print('');
+print("////////////////////////////////////////////////////////////////");
+print("                   Choose wallpaper options                     ");
+print("////////////////////////////////////////////////////////////////");
+print('');
 print('');
 print("Type 1 for manual selection and type 2 for automatic selections");
+print('');
+print('');
 
 options = int(input('Choose 1 or 2 : '))
 
